@@ -1,33 +1,33 @@
-# Análisis de Datos Educativos con PISA
+# PISA Data Educational Analysis
 
-**Exploramos los datos de PISA para ver cómo los recursos financieros, el salario de los docentes y otros factores se relacionan con el rendimiento académico de los estudiantes.**
+**We delve into PISA data to uncover how financial resources, teachers' salaries, and other factors correlate with student academic performance.**
 
-## ¿De qué trata todo esto?
+## What's the Big Question?
 
-Aquí desgranamos los datos de PISA. Lo que buscamos es entender las conexiones entre la inversión educativa y cómo rinden los estudiantes. También examinamos cómo las condiciones económicas y sociales influyen en la educación.
+We're digging into PISA's treasure trove to figure out the link between educational investments and student performance. Also, we're curious about the role that social and economic conditions play in shaping education outcomes.
 
-## Contenido del Proyecto
+## Questions and Hypotheses
 
-- **Ajustes**: Configuramos nuestro kit de herramientas analíticas.
-- **Obtención y limpieza de datos**: Nos aseguramos de tener datos nítidos para un análisis preciso.
-- **Introducción de nuevos datos y variables**: Enriquecemos nuestro estudio con datos adicionales que puedan aportar más luz.
-- **Análisis de datos**: Examinamos los datos detenidamente para detectar tendencias y correlaciones.
-- **Implementación de modelos**: Utilizamos modelos estadísticos para interpretar los datos y obtener insights.
-- **Predicciones**: Realizamos predicciones basadas en datos históricos para anticipar tendencias futuras en educación.
-- **Conclusiones**: Ofrecemos un resumen de nuestros descubrimientos y reflexionamos sobre sus implicaciones.
+We're pondering whether there's a tangible return on educational investment in terms of academic outcomes and how teachers' pay might influence educational quality. Our investigation centers on whether better-paid teachers are tied to better student results and if this correlates with the rate of youth not in education, employment, or training (NEET).
 
-## Preguntas e Hipótesis
+## Our Goals
 
-Nos preguntamos cómo se traduce la inversión económica en educación en resultados académicos y si el salario de los profesores afecta la calidad de la educación. Estamos investigando si un mejor salario para los docentes se asocia con mejores resultados de los alumnos y si esto tiene un efecto en la proporción de jóvenes que ni estudian ni trabajan.
+Our aim is to pinpoint key variables that shed light on these questions. We're deploying regression models and time series analysis to sift through the data and predict educational trends across various countries, including potential future scenarios for Spain.
 
-## Nuestros Objetivos
+## Project Contents
 
-Nuestro propósito es encontrar variables clave que respondan a estas preguntas. Aplicamos modelos de regresión y series temporales para analizar y predecir tendencias educativas en diferentes países, incluyendo posibles futuros escenarios para España.
+- **Adjustments**: Setting up our analytical toolkit.
+- **Data Retrieval and Cleaning**: Ensuring crystal-clear data for spot-on analysis.
+- **Introduction of New Data and Variables**: Adding extra layers of data for deeper insights.
+- **Data Analysis**: Thoroughly scrutinizing the data to spot trends and correlations.
+- **Model Implementation**: Bringing statistical models into play to decode our findings.
+- **Predictions**: Crafting predictions based on historical data to foresee educational trends.
+- **Conclusions**: Summarizing our discoveries and considering their implications.
 
-## Colabora con Nosotros
+## Join the Effort
 
-Si te interesa mejorar la educación a través de datos y análisis, tu colaboración es bienvenida. Juntos podemos profundizar en estos temas y marcar una diferencia.
+If you're keen on enhancing education through data analysis, we welcome your input. Together, we can dive deeper and make a meaningful impact.
 
-## Conéctate
+## Get in Touch
 
-Para cualquier pregunta o si te interesa colaborar, estoy disponible para charlar. Encuentra la forma de contactarme y hablemos sobre educación y datos.
+For any inquiries or if you're interested in collaborating, reach out. Let's connect and discuss education and data.
