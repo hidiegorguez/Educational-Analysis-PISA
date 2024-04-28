@@ -2,6 +2,8 @@
 
 **We delve into PISA data to uncover how financial resources, teachers' salaries, and other factors correlate with student academic performance.**
 
+**Please note:** The analysis and contents of this project are primarily in Spanish.
+
 ## What's the Big Question?
 
 We're digging into PISA's treasure trove to figure out the link between educational investments and student performance. Also, we're curious about the role that social and economic conditions play in shaping education outcomes.
